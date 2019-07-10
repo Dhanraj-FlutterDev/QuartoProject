@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "566549875504",
+    "firebase_url": "https://my-first-database-b1345.firebaseio.com",
+    "project_id": "my-first-database-b1345",
+    "storage_bucket": "my-first-database-b1345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566549875504:android:97db77a4849a0c25",
+        "android_client_info": {
+          "package_name": "com.example.dhanraj.quartoproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566549875504-7qed94prkp4tbjn85v8kom0jo16efac0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhanraj.quartoproject",
+            "certificate_hash": "09f8f77d303fc51922887b1edbf05210cc8f4440"
+          }
+        },
+        {
+          "client_id": "566549875504-c8e3a801kpmb88r7qv0i976442vh8ho8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5LXvn3PtpoQj5cnqNl9S8jt4mb-KUyO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566549875504-c8e3a801kpmb88r7qv0i976442vh8ho8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566549875504:android:f1b2650536c4e2a4",
+        "android_client_info": {
+          "package_name": "com.example.dhanraj.welcomescreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566549875504-v6nhdgo2oc503ud098k1ps8u3al75h6t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dhanraj.welcomescreen",
+            "certificate_hash": "09f8f77d303fc51922887b1edbf05210cc8f4440"
+          }
+        },
+        {
+          "client_id": "566549875504-c8e3a801kpmb88r7qv0i976442vh8ho8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5LXvn3PtpoQj5cnqNl9S8jt4mb-KUyO4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566549875504-c8e3a801kpmb88r7qv0i976442vh8ho8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

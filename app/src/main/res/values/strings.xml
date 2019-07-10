@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Quarto Project</string>
+    <string name="slogan">A Better Way to Grab Rooms</string>
+    <string name="hint_phone_number">Enter Phone Number</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="start_phone_auth">Send OTP</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="resend_phone_auth">Resend</string>
+    <string name="fullname">Decent Quality Room</string>
+    <string name="signout1">Sign Out</string>
+    <string name="info">description</string>
+    <string name="button">Pop up msg</string>
+    <string name="text">Address</string>
+    <string name="phone">Phone number</string>
+    <string name="des">Mini Project</string>
+    <string name="flats">Luxury Flats/Rooms</string>
+    <string name="boy">For Boys</string>
+    <string name="girl">For Girls</string>
+    <string name="boysroom">Quality Rooms For Boys</string>
+    <string name="quality">Quality Rooms For Girls</string>
+    <string name="tittl">Room Image</string>
+    <string name="features">Guest Room,
+                            24/7 Running Water,
+                            Hot Water,
+                            Bathtub</string>
+    <string name="features1">Spring Beds,
+                            Guest Room,
+                            24/7 Running Water,
+                            Hot Water</string>
+    <string name="features2">Housekeeping Service,
+                            Guest Room,
+                            24/7 Running Water,
+                            Hot Water,
+                            Bathtub</string>
+    <string name="features3">GYM,
+                            Guest Room,
+                            24/7 Running Water,
+                            Hot Water,
+                            Security Cameras</string>
+    <string name="address_title">Address_Title</string>
+
+</resources>

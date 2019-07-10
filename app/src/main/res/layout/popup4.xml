@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="320dp"
+    android:layout_height="400dp"
+    android:layout_gravity="center"
+    android:background="@drawable/ground"
+    android:orientation="vertical"
+    android:padding="5dp"
+
+    >
+
+    <TextView
+        android:id="@+id/backclick"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_gravity="end"
+        android:background="@drawable/circlebackground"
+        android:gravity="center"
+        android:text="X"
+        android:textColor="@color/colorText"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top"
+            android:layout_marginTop="5dp"
+            android:text="@string/text"
+            android:textSize="20dp"
+            android:textColor="@color/colorText"
+            android:textStyle="bold"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:layout_margin="18dp"
+            android:text="Flat no 20, Girnad apartment gandi square, near sundar bag, Ichalkaranji."
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="top"
+            android:layout_marginTop="5dp"
+            android:text="@string/phone"
+            android:textSize="20dp"
+            android:textColor="@color/colorText"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:layout_margin="18dp"
+            android:text="Mrs.Smita Patil - +917566684265"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="top"
+            android:layout_marginTop="5dp"
+            android:text="Features"
+            android:textSize="20dp"
+            android:textColor="@color/colorText"
+            android:textStyle="bold"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:layout_margin="18dp"
+            android:text="@string/features"
+            />
+
+
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>
